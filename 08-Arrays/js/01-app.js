@@ -13,7 +13,7 @@ const meses = new Array('Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio');
 console.log(meses);
 
 // Ahora no es obligatorio que el arreglo tenga numeros o strings unicamente, también puede tener un poco de todo:
-const deTodo = ["Hola", 10, true, "si", null, { nombre: 'Juan', trabajo: 'Programador'}, [1,2,3,4]];
+const deTodo = ["Hola", 10, true, "si", null, { nombre: 'Juan', trabajo: 'Programador'}, [1,2,3,4]];
 console.log(deTodo);
 
 // incluso un array puede tener un array dentro
